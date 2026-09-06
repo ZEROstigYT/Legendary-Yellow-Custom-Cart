@@ -10,7 +10,7 @@
   "label": "label.png",
   "base": "yellow",
   "engine": ">=0.2.26 <1.0.0",
-  "seal": "sealed+",
+  "seal": "open",
   "mods": [
     {
       "id": "gen1recomp-modern-ui-suite",
