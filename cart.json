@@ -30,8 +30,8 @@
       "id": "legendary-3d-npcs",
       "source": "github",
       "repo": "ltzLegend/Legendary-3D-NPCs",
-      "version": "1.1.5-npcscale5-compat253",
-      "sha256": "82e1eb347eb220615ef7e8ff8a1f19ae329b1ee6164717f6b8c795d5c2bf1ff3"
+      "version": "1.1.6",
+      "sha256": "b8b29717a0d126501687e351c0bd791ad6a0e593dedcee21ffe3cb8f9975e2cb"
     },
     {
       "id": "legendary-stadium-overworld-models",
@@ -74,6 +74,34 @@
       "repo": "shanehudson-gen1recomp-mods/wild_skies",
       "version": "1.12.0",
       "sha256": "9932561e0d2cc119fc94c72df40f93bb15c905868a4d0cd71b42f08f8f9f6d92"
+    },
+    {
+      "id": "modern_ui_suite",
+      "source": "github",
+      "repo": "piftee/gen1recomp-modern-ui-suite",
+      "version": "0.1.22",
+      "sha256": "b5c036a8c1c50771b7570b6b5bee89f113086eb9e80637362d219761aa5c6b0f"
+    },
+    {
+      "id": "unique_menu_icons",
+      "source": "github",
+      "repo": "menyas/unique-menu-icons",
+      "version": "1.5.0",
+      "sha256": "ec2ac4495810f93e0ca85b4feb99fc9bdfba8149e6956c6fc6c405cece353069"
+    },
+    {
+      "id": "BATTLE_ART_VOXEL_FORK",
+      "source": "github",
+      "repo": "absol89/DramaticShapeVoxelMod",
+      "version": "1.10.3",
+      "sha256": "75297b929459d1a35efdfaf249b85a50c1f62a27c0222caa8184b297801bc51c"
+    },
+    {
+      "id": "overworld_wild_spawns",
+      "source": "github",
+      "repo": "YoDrehDenSwagAuf/overworld-spawn-mod",
+      "version": "2.2.0",
+      "sha256": "788188ca4b6fe9feb501a6f6202a917b04130d47691042930be2b7312fd03eca"
     }
   ]
 }
