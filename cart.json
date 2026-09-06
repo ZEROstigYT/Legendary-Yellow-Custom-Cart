@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "id": "legendary-kanto",
+  "title": "LEGENDARY YELLOW!",
+  "version": "0.1.0",
+  "author": "ZEROstigYT",
+  "repo": "ZEROstigYT/Legendary-Yellow-Custom-Cart.git",
+  "shell": "#f8d030",
+  "finish": "sparkle+holo",
+  "label": "label.png",
+  "base": "yellow",
+  "engine": ">=0.2.26 <1.0.0",
+  "seal": "sealed+",
+  "mods": [
+    {
+      "id": "gen1recomp-modern-ui-suite",
+      "source": "github",
+      "repo": "piftee/gen1recomp-modern-ui-suite",
+      "version": "0.1.12",
+      "sha256": "f99f2f22635f3bb47ce9c957dfe7e3eeda4a8886146b464b2086ac42165d154b"
+    },
+    {
+      "id": "unique-menu-icons",
+      "source": "github",
+      "repo": "menyas/unique-menu-icons",
+      "version": "1.5.0",
+      "sha256": "ec2ac4495810f93e0ca85b4feb99fc9bdfba8149e6956c6fc6c405cece353069"
+    },
+    {
+      "id": "legendary-3d-npcs",
+      "source": "github",
+      "repo": "ltzLegend/Legendary-3D-NPCs",
+      "version": "1.1.5-npcscale5-compat253",
+      "sha256": "82e1eb347eb220615ef7e8ff8a1f19ae329b1ee6164717f6b8c795d5c2bf1ff3"
+    },
+    {
+      "id": "legendary-stadium-overworld-models",
+      "source": "github",
+      "repo": "ltzLegend/Legendary-Stadium-Overworld-Models",
+      "version": "0.1.57-ba.9",
+      "sha256": "6dcadcef45c3890ededa00b1fef1fecf91104217564c8fd02c9d624499cb3231"
+    },
+    {
+      "id": "legendary-grass-and-flowers",
+      "source": "github",
+      "repo": "ltzLegend/Legendary-Grass-and-Flowers",
+      "version": "1.1.0-test2-smaller-coral-flowers",
+      "sha256": "a7689a1f22fe32c8abb446a707442f5056bffbd8b81332a50ef73bcafdd3a901"
+    },
+    {
+      "id": "legendary-battle-cinematics-compat",
+      "source": "github",
+      "repo": "ltzLegend/Legendary-Battle-Cinematics-Compat",
+      "version": "0.7.2-perf2-compat253",
+      "sha256": "3706880bcc96629c67db2218089b798487681c695922a98dcf4bae11c5b50d1c"
+    },
+    {
+      "id": "dramaticshapevoxelmod",
+      "source": "github",
+      "repo": "absol89/DramaticShapeVoxelMod",
+      "version": "1.10.3",
+      "sha256": "75297b929459d1a35efdfaf249b85a50c1f62a27c0222caa8184b297801bc51c"
+    },
+    {
+      "id": "overworld-spawn-mod",
+      "source": "github",
+      "repo": "YoDrehDenSwagAuf/overworld-spawn-mod",
+      "version": "2.2.0",
+      "sha256": "788188ca4b6fe9feb501a6f6202a917b04130d47691042930be2b7312fd03eca"
+    },
+    {
+      "id": "wild_skies",
+      "source": "github",
+      "repo": "shanehudson-gen1recomp-mods/wild_skies",
+      "version": "1.12.0",
+      "sha256": "9932561e0d2cc119fc94c72df40f93bb15c905868a4d0cd71b42f08f8f9f6d92"
+    }
+  ]
+}
