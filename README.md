@@ -1,4 +1,4 @@
-# Legendary Kanto
+# Legendary Yellow
 
 A custom cart for G1R engine: a pinned mod setup that plays as
 its own game on top of `yellow`. It ships no code -- every mod named here is
